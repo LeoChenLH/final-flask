@@ -24,12 +24,12 @@
 - flask文件夹里面有.idea文件夹、static文件夹(css样式)、templates文件夹(主要html集合)、app.py文件以及各类数据文档
 
 ### 功能：
-#####1、项目启动命令
+##### 1、项目启动命令
 - python app. py
 
-#####2、项目依赖 Flask， pandas， pyecharts等
+##### 2、项目依赖 Flask， pandas， pyecharts等
 
-#####3、其中部分URL及功能如下
+##### 3、其中部分URL及功能如下
 
 - /展示2014-2017年城市録化覆盖率
 - /data展示全部数据
